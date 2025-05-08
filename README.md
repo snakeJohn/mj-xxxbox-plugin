@@ -75,5 +75,5 @@ imagine_prefix = ["/i", "/mj"]  # 绘图命令
 
 ## 鸣谢
 
-- 原始项目作者：mouxan
-- 重构者：[您的名字] 
+- 原始项目作者及地址：[Kylsky](https://github.com/Kylsky/mj-dify-on-wechat-plugin)
+- 重构者：snakejohn by cursor
