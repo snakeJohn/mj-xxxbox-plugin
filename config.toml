@@ -1,0 +1,20 @@
+# MidJourney API 配置
+mj_url = ""  # MidJourney API 地址
+mj_api_secret = ""  # API密钥
+mj_tip = true  # 是否显示提示
+mj_admin_password = ""  # 管理员密码
+discordapp_proxy = ""  # Discord代理服务器
+
+# 使用限制
+daily_limit = 3  # 每日使用次数限制
+
+# 命令前缀配置
+imagine_prefix = ["/i", "/mj"]  # 绘图命令
+fetch_prefix = ["/f"]  # 查询任务
+up_prefix = ["/u"]  # 放大/变换
+pad_prefix = ["/p"]  # 垫图模式
+blend_prefix = ["/b"]  # 混图模式
+describe_prefix = ["/d"]  # 识图模式
+queue_prefix = ["/q"]  # 查询队列
+end_prefix = ["/e"]  # 结束命令
+reroll_prefix = ["/r"]  # 重新生成 
